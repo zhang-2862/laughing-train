@@ -1,0 +1,3 @@
+D:/ClionProjects/C++Projects/P1421 Xiaoyu buys stationery/cmake-build-debug/CMakeFiles/P1421_Xiaoyu_buys_stationery_.dir
+D:/ClionProjects/C++Projects/P1421 Xiaoyu buys stationery/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/C++Projects/P1421 Xiaoyu buys stationery/cmake-build-debug/CMakeFiles/rebuild_cache.dir

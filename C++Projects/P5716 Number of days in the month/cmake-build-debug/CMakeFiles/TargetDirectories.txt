@@ -1,0 +1,3 @@
+D:/ClionProjects/C++Projects/P5716 Number of days in the month/cmake-build-debug/CMakeFiles/P5716_Number_of_days_in_the_month_.dir
+D:/ClionProjects/C++Projects/P5716 Number of days in the month/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/C++Projects/P5716 Number of days in the month/cmake-build-debug/CMakeFiles/rebuild_cache.dir

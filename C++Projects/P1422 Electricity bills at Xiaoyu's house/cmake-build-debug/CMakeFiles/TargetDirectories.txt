@@ -1,0 +1,3 @@
+D:/ClionProjects/C++Projects/P1422 Electricity bills at Xiaoyu's house/cmake-build-debug/CMakeFiles/P1422_Electricity_bills_at_Xiaoyu_s_house_.dir
+D:/ClionProjects/C++Projects/P1422 Electricity bills at Xiaoyu's house/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/C++Projects/P1422 Electricity bills at Xiaoyu's house/cmake-build-debug/CMakeFiles/rebuild_cache.dir

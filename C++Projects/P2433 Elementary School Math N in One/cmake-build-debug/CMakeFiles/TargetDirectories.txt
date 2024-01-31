@@ -1,0 +1,3 @@
+D:/ClionProjects/C++Projects/P2433 Elementary School Math N in One/cmake-build-debug/CMakeFiles/P2433_Elementary_School_Math_N_in_One.dir
+D:/ClionProjects/C++Projects/P2433 Elementary School Math N in One/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/C++Projects/P2433 Elementary School Math N in One/cmake-build-debug/CMakeFiles/rebuild_cache.dir

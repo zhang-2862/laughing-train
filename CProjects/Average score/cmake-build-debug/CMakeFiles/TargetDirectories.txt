@@ -1,0 +1,3 @@
+D:/ClionProjects/CProjects/Average score/cmake-build-debug/CMakeFiles/Average_score.dir
+D:/ClionProjects/CProjects/Average score/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/CProjects/Average score/cmake-build-debug/CMakeFiles/rebuild_cache.dir

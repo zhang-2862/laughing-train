@@ -1,0 +1,3 @@
+D:/ClionProjects/C++Projects/homework12/cmake-build-debug/CMakeFiles/homework12.dir
+D:/ClionProjects/C++Projects/homework12/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/C++Projects/homework12/cmake-build-debug/CMakeFiles/rebuild_cache.dir

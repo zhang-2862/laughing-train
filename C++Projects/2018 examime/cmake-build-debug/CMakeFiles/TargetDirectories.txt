@@ -1,0 +1,3 @@
+D:/ClionProjects/C++Projects/2018 examime/cmake-build-debug/CMakeFiles/2018_examime.dir
+D:/ClionProjects/C++Projects/2018 examime/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/C++Projects/2018 examime/cmake-build-debug/CMakeFiles/rebuild_cache.dir

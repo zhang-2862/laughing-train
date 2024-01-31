@@ -1,0 +1,3 @@
+D:/ClionProjects/C++Projects/B2029 Elephants drink water/cmake-build-debug/CMakeFiles/B2029_Elephants_drink_water.dir
+D:/ClionProjects/C++Projects/B2029 Elephants drink water/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/C++Projects/B2029 Elephants drink water/cmake-build-debug/CMakeFiles/rebuild_cache.dir

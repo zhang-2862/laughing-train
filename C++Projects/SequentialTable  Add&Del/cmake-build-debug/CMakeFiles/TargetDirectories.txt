@@ -1,0 +1,3 @@
+D:/ClionProjects/C++Projects/pointer/cmake-build-debug/CMakeFiles/pointer.dir
+D:/ClionProjects/C++Projects/pointer/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/C++Projects/pointer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

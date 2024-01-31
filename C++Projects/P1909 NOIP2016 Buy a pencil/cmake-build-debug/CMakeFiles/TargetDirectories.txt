@@ -1,0 +1,3 @@
+D:/ClionProjects/C++Projects/P1909 NOIP2016 Buy a pencil/cmake-build-debug/CMakeFiles/P1909_NOIP2016_Buy_a_pencil.dir
+D:/ClionProjects/C++Projects/P1909 NOIP2016 Buy a pencil/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/C++Projects/P1909 NOIP2016 Buy a pencil/cmake-build-debug/CMakeFiles/rebuild_cache.dir

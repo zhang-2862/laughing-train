@@ -1,0 +1,3 @@
+D:/ClionProjects/C++Projects/P5708 Triangle area/cmake-build-debug/CMakeFiles/P5708_Triangle_area.dir
+D:/ClionProjects/C++Projects/P5708 Triangle area/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/C++Projects/P5708 Triangle area/cmake-build-debug/CMakeFiles/rebuild_cache.dir

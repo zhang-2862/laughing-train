@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P1421_Xiaoyu_buys_stationery_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P1421_Xiaoyu_buys_stationery_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1421_Xiaoyu_buys_stationery_-Debug-fa6b66442e12b2ea7602.json",
+					"name" : "P1421_Xiaoyu_buys_stationery_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ClionProjects/C++Projects/P1421 Xiaoyu buys stationery/cmake-build-debug",
+		"source" : "D:/ClionProjects/C++Projects/P1421 Xiaoyu buys stationery"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

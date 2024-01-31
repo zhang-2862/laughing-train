@@ -1,0 +1,11 @@
+# ninja log v5
+1	123	7119921395786686	CMakeFiles/luogu_P570_split_happy_water.dir/main.cpp.obj	1d6c6fb2f2129c43
+123	302	7119921397512071	luogu_P570_split_happy_water.exe	8d943497df890a07
+2	88	7119921859941124	CMakeFiles/luogu_P570_split_happy_water.dir/main.cpp.obj	1d6c6fb2f2129c43
+88	222	7119921861262661	luogu_P570_split_happy_water.exe	8d943497df890a07
+2	84	7119922031278081	CMakeFiles/luogu_P570_split_happy_water.dir/main.cpp.obj	1d6c6fb2f2129c43
+84	218	7119922032614502	luogu_P570_split_happy_water.exe	8d943497df890a07
+2	83	7119922295597405	CMakeFiles/luogu_P570_split_happy_water.dir/main.cpp.obj	1d6c6fb2f2129c43
+83	212	7119922296873988	luogu_P570_split_happy_water.exe	8d943497df890a07
+2	83	7119930850371345	CMakeFiles/luogu_P570_split_happy_water.dir/main.cpp.obj	1d6c6fb2f2129c43
+84	214	7119930851667880	luogu_P570_split_happy_water.exe	8d943497df890a07

@@ -1,0 +1,3 @@
+D:/ClionProjects/C++Projects/P1888 trigonometric function/cmake-build-debug/CMakeFiles/P1888_trigonometric_function.dir
+D:/ClionProjects/C++Projects/P1888 trigonometric function/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/C++Projects/P1888 trigonometric function/cmake-build-debug/CMakeFiles/rebuild_cache.dir

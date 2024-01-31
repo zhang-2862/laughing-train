@@ -1,0 +1,23 @@
+# ninja log v5
+1	109	7114722847749236	CMakeFiles/quick_sort.dir/main.cpp.obj	bc7e6d8f6038ca9b
+110	243	7114722849075696	quick_sort.exe	fd2f07dab2ad5eb0
+4	125	7114723437651138	CMakeFiles/quick_sort.dir/main.cpp.obj	bc7e6d8f6038ca9b
+126	257	7114723438947757	quick_sort.exe	fd2f07dab2ad5eb0
+3	103	7114724702609123	CMakeFiles/quick_sort.dir/main.cpp.obj	bc7e6d8f6038ca9b
+104	228	7114724703830936	quick_sort.exe	fd2f07dab2ad5eb0
+3	113	7114726088905337	CMakeFiles/quick_sort.dir/main.cpp.obj	bc7e6d8f6038ca9b
+113	240	7114726090162314	quick_sort.exe	fd2f07dab2ad5eb0
+3	105	7114726961561369	CMakeFiles/quick_sort.dir/main.cpp.obj	bc7e6d8f6038ca9b
+105	226	7114726962757822	quick_sort.exe	fd2f07dab2ad5eb0
+2	104	7114732508038226	CMakeFiles/quick_sort.dir/main.cpp.obj	bc7e6d8f6038ca9b
+105	226	7114732509235020	quick_sort.exe	fd2f07dab2ad5eb0
+3	107	7114734176961783	CMakeFiles/quick_sort.dir/main.cpp.obj	bc7e6d8f6038ca9b
+108	232	7114734178178890	quick_sort.exe	fd2f07dab2ad5eb0
+3	108	7114737339860105	CMakeFiles/quick_sort.dir/main.cpp.obj	bc7e6d8f6038ca9b
+109	230	7114737341057354	quick_sort.exe	fd2f07dab2ad5eb0
+4	127	7114737420585942	CMakeFiles/quick_sort.dir/main.cpp.obj	bc7e6d8f6038ca9b
+128	246	7114737421743176	quick_sort.exe	fd2f07dab2ad5eb0
+4	108	7114737599536421	CMakeFiles/quick_sort.dir/main.cpp.obj	bc7e6d8f6038ca9b
+109	234	7114737600763150	quick_sort.exe	fd2f07dab2ad5eb0
+3	107	7114740441916623	CMakeFiles/quick_sort.dir/main.cpp.obj	bc7e6d8f6038ca9b
+107	232	7114740443153661	quick_sort.exe	fd2f07dab2ad5eb0

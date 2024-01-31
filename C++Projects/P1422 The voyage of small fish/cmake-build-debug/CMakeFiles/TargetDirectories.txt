@@ -1,0 +1,3 @@
+D:/ClionProjects/C++Projects/P1422 The voyage of small fish/cmake-build-debug/CMakeFiles/P1422_The_voyage_of_small_fish.dir
+D:/ClionProjects/C++Projects/P1422 The voyage of small fish/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/C++Projects/P1422 The voyage of small fish/cmake-build-debug/CMakeFiles/rebuild_cache.dir

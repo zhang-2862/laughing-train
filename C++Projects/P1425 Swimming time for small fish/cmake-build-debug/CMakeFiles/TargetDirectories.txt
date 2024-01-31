@@ -1,0 +1,3 @@
+D:/ClionProjects/C++Projects/P1425 Swimming time for small fish/cmake-build-debug/CMakeFiles/P1425_Swimming_time_for_small_fish.dir
+D:/ClionProjects/C++Projects/P1425 Swimming time for small fish/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/C++Projects/P1425 Swimming time for small fish/cmake-build-debug/CMakeFiles/rebuild_cache.dir
