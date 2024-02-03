@@ -1,0 +1,3 @@
+D:/ClionProjects/laughing-train/C++Projects/P1308 Count the number of words/cmake-build-debug/CMakeFiles/P1308_Count_the_number_of_words.dir
+D:/ClionProjects/laughing-train/C++Projects/P1308 Count the number of words/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/laughing-train/C++Projects/P1308 Count the number of words/cmake-build-debug/CMakeFiles/rebuild_cache.dir

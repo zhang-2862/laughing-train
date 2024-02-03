@@ -1,0 +1,25 @@
+# ninja log v5
+0	399	7286635353797957	CMakeFiles/P1308_Count_the_number_of_words.dir/main.cpp.obj	527b67d3d5c94f19
+402	586	7286635355643027	P1308_Count_the_number_of_words.exe	c67d2b682f664f84
+3	336	7286646222455072	CMakeFiles/P1308_Count_the_number_of_words.dir/main.cpp.obj	527b67d3d5c94f19
+336	468	7286646223750680	P1308_Count_the_number_of_words.exe	c67d2b682f664f84
+5	327	7286646853551136	CMakeFiles/P1308_Count_the_number_of_words.dir/main.cpp.obj	527b67d3d5c94f19
+328	457	7286646854825026	P1308_Count_the_number_of_words.exe	c67d2b682f664f84
+3	322	7286647035094526	CMakeFiles/P1308_Count_the_number_of_words.dir/main.cpp.obj	527b67d3d5c94f19
+322	456	7286647036411001	P1308_Count_the_number_of_words.exe	c67d2b682f664f84
+4	331	7286649189997006	CMakeFiles/P1308_Count_the_number_of_words.dir/main.cpp.obj	527b67d3d5c94f19
+332	470	7286649191313605	P1308_Count_the_number_of_words.exe	c67d2b682f664f84
+4	335	7286650263533786	CMakeFiles/P1308_Count_the_number_of_words.dir/main.cpp.obj	527b67d3d5c94f19
+335	474	7286650264900140	P1308_Count_the_number_of_words.exe	c67d2b682f664f84
+4	372	7286651606732322	CMakeFiles/P1308_Count_the_number_of_words.dir/main.cpp.obj	527b67d3d5c94f19
+372	533	7286651608327938	P1308_Count_the_number_of_words.exe	c67d2b682f664f84
+4	335	7286654729159635	CMakeFiles/P1308_Count_the_number_of_words.dir/main.cpp.obj	527b67d3d5c94f19
+336	484	7286654730645661	P1308_Count_the_number_of_words.exe	c67d2b682f664f84
+3	320	7286656153964581	CMakeFiles/P1308_Count_the_number_of_words.dir/main.cpp.obj	527b67d3d5c94f19
+320	454	7286656155291343	P1308_Count_the_number_of_words.exe	c67d2b682f664f84
+5	338	7286658555656658	CMakeFiles/P1308_Count_the_number_of_words.dir/main.cpp.obj	527b67d3d5c94f19
+338	469	7286658556943558	P1308_Count_the_number_of_words.exe	c67d2b682f664f84
+4	328	7286659268219304	CMakeFiles/P1308_Count_the_number_of_words.dir/main.cpp.obj	527b67d3d5c94f19
+329	462	7286659269536032	P1308_Count_the_number_of_words.exe	c67d2b682f664f84
+3	326	7286663070105965	CMakeFiles/P1308_Count_the_number_of_words.dir/main.cpp.obj	527b67d3d5c94f19
+327	475	7286663071589020	P1308_Count_the_number_of_words.exe	c67d2b682f664f84
