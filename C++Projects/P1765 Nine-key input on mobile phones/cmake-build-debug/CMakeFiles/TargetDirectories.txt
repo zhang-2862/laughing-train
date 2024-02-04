@@ -1,0 +1,3 @@
+D:/ClionProjects/laughing-train/C++Projects/P1765 Nine-key input on mobile phones/cmake-build-debug/CMakeFiles/P1765_Nine_key_input_on_mobile_phones.dir
+D:/ClionProjects/laughing-train/C++Projects/P1765 Nine-key input on mobile phones/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/laughing-train/C++Projects/P1765 Nine-key input on mobile phones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
