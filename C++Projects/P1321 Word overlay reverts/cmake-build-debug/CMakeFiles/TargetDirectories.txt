@@ -1,0 +1,3 @@
+D:/ClionProjects/laughing-train/C++Projects/P1321 Word overlay reverts/cmake-build-debug/CMakeFiles/P1321_Word_overlay_reverts_.dir
+D:/ClionProjects/laughing-train/C++Projects/P1321 Word overlay reverts/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/laughing-train/C++Projects/P1321 Word overlay reverts/cmake-build-debug/CMakeFiles/rebuild_cache.dir

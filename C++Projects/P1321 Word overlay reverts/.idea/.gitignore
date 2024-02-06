@@ -1,0 +1,8 @@
+# 默认忽略的文件
+/../../P1321 Word overlay reverts /.idea/shelf/
+/../../P1321 Word overlay reverts /.idea/workspace.xml
+# 基于编辑器的 HTTP 客户端请求
+/../../P1321 Word overlay reverts /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../P1321 Word overlay reverts /.idea/dataSources/
+/../../P1321 Word overlay reverts /.idea/dataSources.local.xml
