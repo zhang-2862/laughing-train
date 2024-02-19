@@ -1,0 +1,3 @@
+D:/ClionProjects/laughing-train/C++Projects/P1597 Statement parsing/cmake-build-debug/CMakeFiles/P1597_Statement_parsing.dir
+D:/ClionProjects/laughing-train/C++Projects/P1597 Statement parsing/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/laughing-train/C++Projects/P1597 Statement parsing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
