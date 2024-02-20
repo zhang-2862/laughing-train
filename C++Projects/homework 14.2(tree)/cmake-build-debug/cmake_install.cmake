@@ -1,4 +1,4 @@
-# Install script for directory: D:/ClionProjects/C++Projects/homework 14.2(tree)
+# Install script for directory: D:/ClionProjects/laughing-train/C++Projects/homework 14.2(tree)
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/ClionProjects/C++Projects/homework 14.2(tree)/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/ClionProjects/laughing-train/C++Projects/homework 14.2(tree)/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

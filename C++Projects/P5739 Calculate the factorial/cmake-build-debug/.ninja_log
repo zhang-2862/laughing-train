@@ -1,0 +1,11 @@
+# ninja log v5
+1	351	7301112135084042	CMakeFiles/P5739_Calculate_the_factorial.dir/main.cpp.obj	2ceb96186842da63
+353	511	7301112136652567	P5739_Calculate_the_factorial.exe	647d2a0fb304a905
+4	330	7301112497415546	CMakeFiles/P5739_Calculate_the_factorial.dir/main.cpp.obj	2ceb96186842da63
+330	454	7301112498642266	P5739_Calculate_the_factorial.exe	647d2a0fb304a905
+3	320	7301116660908628	CMakeFiles/P5739_Calculate_the_factorial.dir/main.cpp.obj	2ceb96186842da63
+321	447	7301116662165079	P5739_Calculate_the_factorial.exe	647d2a0fb304a905
+3	315	7301117611081600	CMakeFiles/P5739_Calculate_the_factorial.dir/main.cpp.obj	2ceb96186842da63
+315	437	7301117612288697	P5739_Calculate_the_factorial.exe	647d2a0fb304a905
+3	325	7301118231879135	CMakeFiles/P5739_Calculate_the_factorial.dir/main.cpp.obj	2ceb96186842da63
+325	448	7301118233085912	P5739_Calculate_the_factorial.exe	647d2a0fb304a905

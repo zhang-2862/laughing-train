@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/ClionProjects/C++Projects/homework 14.2(tree)/cmake-build-debug"
+			"value" : "d:/ClionProjects/laughing-train/C++Projects/P5739 Calculate the factorial/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/ClionProjects/C++Projects/homework 14.2(tree)"
+			"value" : "D:/ClionProjects/laughing-train/C++Projects/P5739 Calculate the factorial"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -635,7 +635,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/homework_14_2_tree_"
+			"value" : "C:/Program Files (x86)/P5739_Calculate_the_factorial"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -851,7 +851,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "homework_14_2_tree_"
+			"value" : "P5739_Calculate_the_factorial"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1230,7 +1230,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "homework_14_2_tree__BINARY_DIR",
+			"name" : "P5739_Calculate_the_factorial_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1239,10 +1239,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/ClionProjects/C++Projects/homework 14.2(tree)/cmake-build-debug"
+			"value" : "D:/ClionProjects/laughing-train/C++Projects/P5739 Calculate the factorial/cmake-build-debug"
 		},
 		{
-			"name" : "homework_14_2_tree__IS_TOP_LEVEL",
+			"name" : "P5739_Calculate_the_factorial_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1254,7 +1254,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "homework_14_2_tree__SOURCE_DIR",
+			"name" : "P5739_Calculate_the_factorial_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/ClionProjects/C++Projects/homework 14.2(tree)"
+			"value" : "D:/ClionProjects/laughing-train/C++Projects/P5739 Calculate the factorial"
 		}
 	],
 	"kind" : "cache",
