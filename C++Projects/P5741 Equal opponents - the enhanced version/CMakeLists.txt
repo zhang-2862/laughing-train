@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.23)
+project(P5741_Equal_opponents___the_enhanced_version_)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(P5741_Equal_opponents___the_enhanced_version_ main.cpp)

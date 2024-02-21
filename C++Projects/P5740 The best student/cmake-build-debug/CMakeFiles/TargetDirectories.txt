@@ -1,0 +1,3 @@
+D:/ClionProjects/laughing-train/C++Projects/P5740 The best student/cmake-build-debug/CMakeFiles/P5740_The_best_student.dir
+D:/ClionProjects/laughing-train/C++Projects/P5740 The best student/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/laughing-train/C++Projects/P5740 The best student/cmake-build-debug/CMakeFiles/rebuild_cache.dir

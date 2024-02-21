@@ -1,0 +1,3 @@
+D:/ClionProjects/laughing-train/C++Projects/P5741 Equal opponents - the enhanced version/cmake-build-debug/CMakeFiles/P5741_Equal_opponents___the_enhanced_version_.dir
+D:/ClionProjects/laughing-train/C++Projects/P5741 Equal opponents - the enhanced version/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/laughing-train/C++Projects/P5741 Equal opponents - the enhanced version/cmake-build-debug/CMakeFiles/rebuild_cache.dir
