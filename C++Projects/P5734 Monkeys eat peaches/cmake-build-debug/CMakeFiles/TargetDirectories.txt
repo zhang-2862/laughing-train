@@ -1,0 +1,3 @@
+D:/ClionProjects/laughing-train/C++Projects/P5734 Monkeys eat peaches/cmake-build-debug/CMakeFiles/P5734_Monkeys_eat_peaches.dir
+D:/ClionProjects/laughing-train/C++Projects/P5734 Monkeys eat peaches/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/laughing-train/C++Projects/P5734 Monkeys eat peaches/cmake-build-debug/CMakeFiles/rebuild_cache.dir

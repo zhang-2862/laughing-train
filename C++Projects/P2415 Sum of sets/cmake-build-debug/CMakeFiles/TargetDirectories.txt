@@ -1,0 +1,3 @@
+D:/ClionProjects/laughing-train/C++Projects/P2415 Sum of sets/cmake-build-debug/CMakeFiles/P2415_Sum_of_sets.dir
+D:/ClionProjects/laughing-train/C++Projects/P2415 Sum of sets/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/laughing-train/C++Projects/P2415 Sum of sets/cmake-build-debug/CMakeFiles/rebuild_cache.dir
