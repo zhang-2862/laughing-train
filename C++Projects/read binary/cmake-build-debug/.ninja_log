@@ -1,0 +1,9 @@
+# ninja log v5
+1	497	7324474457653924	CMakeFiles/read_binary.dir/main.cpp.obj	f9d3eb19923f5823
+499	697	7324474459608328	read_binary.exe	be6ff7fbf0d8d512
+3	479	7324474570130679	CMakeFiles/read_binary.dir/main.cpp.obj	f9d3eb19923f5823
+479	649	7324474571816168	read_binary.exe	be6ff7fbf0d8d512
+3	436	7324476110753869	CMakeFiles/read_binary.dir/main.cpp.obj	f9d3eb19923f5823
+437	596	7324476112319692	read_binary.exe	be6ff7fbf0d8d512
+6	880	7324477722009554	CMakeFiles/read_binary.dir/main.cpp.obj	f9d3eb19923f5823
+880	1176	7324477724961657	read_binary.exe	be6ff7fbf0d8d512

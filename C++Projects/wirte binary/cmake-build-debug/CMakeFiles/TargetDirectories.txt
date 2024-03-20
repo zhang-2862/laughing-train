@@ -1,0 +1,3 @@
+D:/ClionProjects/laughing-train/C++Projects/wirte binary/cmake-build-debug/CMakeFiles/wirte_binary.dir
+D:/ClionProjects/laughing-train/C++Projects/wirte binary/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/laughing-train/C++Projects/wirte binary/cmake-build-debug/CMakeFiles/rebuild_cache.dir

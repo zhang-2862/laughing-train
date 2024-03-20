@@ -1,0 +1,11 @@
+# ninja log v5
+1	368	7323664407565295	CMakeFiles/polymorphic2.dir/main.cpp.obj	9dbf9f11cd4dede2
+370	546	7323664409310628	polymorphic2.exe	1975dac1852ccd16
+5	348	7323664526961445	CMakeFiles/polymorphic2.dir/main.cpp.obj	9dbf9f11cd4dede2
+349	477	7323664528214385	polymorphic2.exe	1975dac1852ccd16
+4	353	7323668403320959	CMakeFiles/polymorphic2.dir/main.cpp.obj	9dbf9f11cd4dede2
+354	546	7323668405176019	polymorphic2.exe	1975dac1852ccd16
+6	362	7323668844001077	CMakeFiles/polymorphic2.dir/main.cpp.obj	9dbf9f11cd4dede2
+362	507	7323668845447238	polymorphic2.exe	1975dac1852ccd16
+4	332	7323669311001622	CMakeFiles/polymorphic2.dir/main.cpp.obj	9dbf9f11cd4dede2
+333	460	7323669312257915	polymorphic2.exe	1975dac1852ccd16
