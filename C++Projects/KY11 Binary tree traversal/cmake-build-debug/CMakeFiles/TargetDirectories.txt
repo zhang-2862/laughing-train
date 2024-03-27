@@ -1,0 +1,3 @@
+D:/ClionProjects/laughing-train/C++Projects/KY11 Binary tree traversal/cmake-build-debug/CMakeFiles/KY11_Binary_tree_traversal.dir
+D:/ClionProjects/laughing-train/C++Projects/KY11 Binary tree traversal/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/laughing-train/C++Projects/KY11 Binary tree traversal/cmake-build-debug/CMakeFiles/rebuild_cache.dir

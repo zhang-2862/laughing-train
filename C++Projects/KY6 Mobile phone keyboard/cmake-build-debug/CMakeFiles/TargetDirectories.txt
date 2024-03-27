@@ -1,0 +1,3 @@
+D:/ClionProjects/laughing-train/C++Projects/KY6 Mobile phone keyboard/cmake-build-debug/CMakeFiles/KY6_Mobile_phone_keyboard.dir
+D:/ClionProjects/laughing-train/C++Projects/KY6 Mobile phone keyboard/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/laughing-train/C++Projects/KY6 Mobile phone keyboard/cmake-build-debug/CMakeFiles/rebuild_cache.dir

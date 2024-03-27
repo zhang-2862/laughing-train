@@ -1,0 +1,3 @@
+D:/ClionProjects/laughing-train/C++Projects/niuke KY2 score sort/cmake-build-debug/CMakeFiles/niuke_KY2_score_sort.dir
+D:/ClionProjects/laughing-train/C++Projects/niuke KY2 score sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/laughing-train/C++Projects/niuke KY2 score sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

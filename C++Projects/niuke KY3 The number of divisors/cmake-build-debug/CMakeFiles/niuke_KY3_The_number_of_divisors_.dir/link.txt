@@ -1,0 +1,3 @@
+"D:\Clion\CLion 2022.2.4\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\niuke_KY3_The_number_of_divisors_.dir/objects.a
+"D:\Clion\CLion 2022.2.4\bin\mingw\bin\ar.exe" qc CMakeFiles\niuke_KY3_The_number_of_divisors_.dir/objects.a @CMakeFiles\niuke_KY3_The_number_of_divisors_.dir\objects1.rsp
+"D:\Clion\CLion 2022.2.4\bin\mingw\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\niuke_KY3_The_number_of_divisors_.dir/objects.a -Wl,--no-whole-archive -o niuke_KY3_The_number_of_divisors_.exe -Wl,--out-implib,libniuke_KY3_The_number_of_divisors_.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\niuke_KY3_The_number_of_divisors_.dir\linkLibs.rsp

@@ -1,0 +1,3 @@
+D:/ClionProjects/laughing-train/C++Projects/KY5 Reverse order output/cmake-build-debug/CMakeFiles/KY5_Reverse_order_output.dir
+D:/ClionProjects/laughing-train/C++Projects/KY5 Reverse order output/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/laughing-train/C++Projects/KY5 Reverse order output/cmake-build-debug/CMakeFiles/rebuild_cache.dir

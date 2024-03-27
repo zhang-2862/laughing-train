@@ -1,0 +1,3 @@
+D:/ClionProjects/laughing-train/C++Projects/KY19 What day of this year/cmake-build-debug/CMakeFiles/KY19_What_day_of_this_year.dir
+D:/ClionProjects/laughing-train/C++Projects/KY19 What day of this year/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/laughing-train/C++Projects/KY19 What day of this year/cmake-build-debug/CMakeFiles/rebuild_cache.dir

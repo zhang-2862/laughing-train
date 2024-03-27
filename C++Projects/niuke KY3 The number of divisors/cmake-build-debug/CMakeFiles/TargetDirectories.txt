@@ -1,0 +1,3 @@
+D:/ClionProjects/laughing-train/C++Projects/niuke KY3 The number of divisors/cmake-build-debug/CMakeFiles/niuke_KY3_The_number_of_divisors_.dir
+D:/ClionProjects/laughing-train/C++Projects/niuke KY3 The number of divisors/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/laughing-train/C++Projects/niuke KY3 The number of divisors/cmake-build-debug/CMakeFiles/rebuild_cache.dir
