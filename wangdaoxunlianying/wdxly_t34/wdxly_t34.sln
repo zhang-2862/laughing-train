@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wdxly_t34", "wdxly_t34\wdxly_t34.vcxproj", "{2D070622-46B9-473F-9ED4-B8852D149464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D070622-46B9-473F-9ED4-B8852D149464}.Debug|x64.ActiveCfg = Debug|x64
+		{2D070622-46B9-473F-9ED4-B8852D149464}.Debug|x64.Build.0 = Debug|x64
+		{2D070622-46B9-473F-9ED4-B8852D149464}.Debug|x86.ActiveCfg = Debug|Win32
+		{2D070622-46B9-473F-9ED4-B8852D149464}.Debug|x86.Build.0 = Debug|Win32
+		{2D070622-46B9-473F-9ED4-B8852D149464}.Release|x64.ActiveCfg = Release|x64
+		{2D070622-46B9-473F-9ED4-B8852D149464}.Release|x64.Build.0 = Release|x64
+		{2D070622-46B9-473F-9ED4-B8852D149464}.Release|x86.ActiveCfg = Release|Win32
+		{2D070622-46B9-473F-9ED4-B8852D149464}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8985BF4-9308-423E-A599-6B8FD446A704}
+	EndGlobalSection
+EndGlobal
