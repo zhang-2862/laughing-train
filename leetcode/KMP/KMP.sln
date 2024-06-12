@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KMP", "KMP\KMP.vcxproj", "{7C6BD210-5C1A-48C5-95C7-571E06CC48F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C6BD210-5C1A-48C5-95C7-571E06CC48F8}.Debug|x64.ActiveCfg = Debug|x64
+		{7C6BD210-5C1A-48C5-95C7-571E06CC48F8}.Debug|x64.Build.0 = Debug|x64
+		{7C6BD210-5C1A-48C5-95C7-571E06CC48F8}.Debug|x86.ActiveCfg = Debug|Win32
+		{7C6BD210-5C1A-48C5-95C7-571E06CC48F8}.Debug|x86.Build.0 = Debug|Win32
+		{7C6BD210-5C1A-48C5-95C7-571E06CC48F8}.Release|x64.ActiveCfg = Release|x64
+		{7C6BD210-5C1A-48C5-95C7-571E06CC48F8}.Release|x64.Build.0 = Release|x64
+		{7C6BD210-5C1A-48C5-95C7-571E06CC48F8}.Release|x86.ActiveCfg = Release|Win32
+		{7C6BD210-5C1A-48C5-95C7-571E06CC48F8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F0F3792-CFB8-437E-A432-4502637C4582}
+	EndGlobalSection
+EndGlobal

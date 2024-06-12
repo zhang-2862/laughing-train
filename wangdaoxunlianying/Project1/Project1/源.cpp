@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include <unordered_set>
 using namespace std;
 
 int lowerBound(vector<int>& nums, int target);
@@ -30,24 +31,35 @@ int lowerBound(vector<int>& nums, int target) {
 	return left;
 }
 
-
+bool isHappy(int n) {
+	if (n == 1) {
+		return true;
+	}
+	unordered_set<int> us;
+	while (us.find(n) != us.end() && n != 1) {
+		us.insert(n);
+		int sum = 0;
+		while (n != 0) {
+			int x = n % 10;
+			sum += x * x;
+			n /= 10;
+		}
+		n = sum;
+	}
+	if (n == 1) {
+		return true;
+	}
+	else {
+		return false;
+	}
+}
 int main() {
 
 	int n;
 	cin >> n;
-	int val;
-	vector<int>v;
-	int target;
-
-	for (int i = 0; i < n; i++)
-	{
-		cin >> val;
-		v.push_back(val);
+	if (isHappy(n)) {
+		cout << "yes" << endl;
 	}
-	cin >> target;
-	v = searchRange(v, target);
-	for (auto i : v) {
-		cout << i << endl;
-	}
+	
 	return 0;
 }
