@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
 #include <vector>
-#define MESSAGE "Happy new year!"
 
 using namespace std;
 
@@ -26,6 +25,23 @@ int main() {
 	//for (auto e : next) {
 	//	cout << e << endl;
 	//}
-	cout << MESSAGE << endl;
+	int n = 0xCAFE;
+	//将末四位剥离出来
+	n &= 15;
+
+	//统计末四位中一的个数
+	int cnt = 0;
+	while (n) {
+		n=n& (n - 1);
+		cnt++;
+
+	}
+	printf("cnt = %d\n", cnt);
+
+
+	int v = 0xCAFE;
+	v = ((v >> 1) & 0x55555555) | ((v & 0x55555555) << 1);
+	v = ((v >> 1) & 0x55555555) | ((v & 0x55555555) << 1);
+	printf("%X\n", v);
 	return 0;
 }
