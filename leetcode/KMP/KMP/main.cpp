@@ -18,30 +18,28 @@ void getNext(int* next, const string& s) {
 	}
 }
 
-int main() {
-	//string s = "aabaaf";
-	//int next[10] = { 0 };
-	//getNext(next, s);
-	//for (auto e : next) {
-	//	cout << e << endl;
-	//}
-	int n = 0xCAFE;
-	//将末四位剥离出来
-	n &= 15;
-
-	//统计末四位中一的个数
-	int cnt = 0;
-	while (n) {
-		n=n& (n - 1);
-		cnt++;
-
+void test(){
+	string s = "aabaaf";
+	int next[10] = { 0 };
+	getNext(next, s);
+	for (auto e : next) {
+		cout << e << endl;
 	}
-	printf("cnt = %d\n", cnt);
+}
 
+int* foo() {
+	int arr[5] = { 0,1,2,3,4 };
+	return &arr[3];
+}
 
-	int v = 0xCAFE;
-	v = ((v >> 1) & 0x55555555) | ((v & 0x55555555) << 1);
-	v = ((v >> 1) & 0x55555555) | ((v & 0x55555555) << 1);
-	printf("%X\n", v);
+int bar() {
+	printf("bar has called.\n");
+	return 0;
+}
+
+int main() {
+	int* p = foo();
+	bar();
+	printf("%d", *p);
 	return 0;
 }

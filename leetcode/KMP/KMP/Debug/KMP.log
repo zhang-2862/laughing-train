@@ -1,3 +1,4 @@
 ﻿  main.cpp
 D:\ClionProjects\laughing-train\leetcode\KMP\KMP\main.cpp(10,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\ClionProjects\laughing-train\leetcode\KMP\KMP\main.cpp(32): warning C4172: 返回局部变量或临时变量的地址: arr
   KMP.vcxproj -> D:\ClionProjects\laughing-train\leetcode\KMP\Debug\KMP.exe
