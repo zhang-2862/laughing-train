@@ -1,0 +1,3 @@
+﻿  main.c
+D:\ClionProjects\laughing-train\wdWORK\wd_d08\t_05\main.c(17,6): warning C4013: “gets”未定义；假设外部返回 int
+  t_05.vcxproj -> D:\ClionProjects\laughing-train\wdWORK\wd_d08\Debug\t_05.exe

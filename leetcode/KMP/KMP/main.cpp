@@ -4,10 +4,11 @@
 
 using namespace std;
 
-void getNext(int* next, const string& s) {
+void getNext(vector<int>& next, const string& s) {
 	int j = -1;
 	next[0] = j;
-	for (int i = 1; i < s.size(); i++) {
+	for (int i = 1; i < s.size()-1; i++)
+	{
 		while (j >= 0 && s[i] != s[j + 1]) {
 			j = next[j];
 		}
@@ -18,28 +19,38 @@ void getNext(int* next, const string& s) {
 	}
 }
 
-void test(){
-	string s = "aabaaf";
-	int next[10] = { 0 };
-	getNext(next, s);
-	for (auto e : next) {
-		cout << e << endl;
+int strStr(string haystack,string needle) {
+	if (needle.size() == 0) {
+		return false;
 	}
-}
-
-int* foo() {
-	int arr[5] = { 0,1,2,3,4 };
-	return &arr[3];
-}
-
-int bar() {
-	printf("bar has called.\n");
-	return 0;
+	vector<int> next(needle.size());
+	getNext(next,needle);
+	int j = -1;
+	for (int i = 0; i < haystack.size(); i++)
+	{
+		while (j >= 0 && haystack[i] != needle[j + 1]) {
+			j = next[j];
+		}
+		if (haystack[i] == needle[j + 1]) {
+			j++;
+		}
+		if (j == needle.size() - 1) {
+			return i - needle.size() + 1;
+		}
+	}
+	return -1;
 }
 
 int main() {
-	int* p = foo();
-	bar();
-	printf("%d", *p);
+	string str1;
+	cout << "please input query string" << endl;
+	cin >> str1;	
+	string needle;
+	cout << "please input needle string" << endl;
+	cin >> needle;
+
+	cout << "needle pos is " << strStr(str1, needle);
+	
+
 	return 0;
 }
