@@ -1,0 +1,3 @@
+﻿  main.c
+D:\ClionProjects\laughing-train\wdWORK\wd_d09\t_04\main.c(40): warning C4715: “get_days_of_month”: 不是所有的控件路径都返回值
+  t_04.vcxproj -> D:\ClionProjects\laughing-train\wdWORK\wd_d09\Debug\t_04.exe

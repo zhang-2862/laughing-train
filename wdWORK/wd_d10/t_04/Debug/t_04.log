@@ -1,0 +1,4 @@
+﻿  main.c
+D:\ClionProjects\laughing-train\wdWORK\day_10\t_04\main.c(33,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\ClionProjects\laughing-train\wdWORK\day_10\t_04\main.c(34,1): warning C4090: “初始化”: 不同的“const”限定符
+  t_04.vcxproj -> D:\ClionProjects\laughing-train\wdWORK\day_10\Debug\t_04.exe

@@ -1,0 +1,4 @@
+﻿  main.c
+D:\ClionProjects\laughing-train\wdWORK\wd_d09\t__03\main.c(62,20): warning C4133: “=”: 从“Vector *”到“E *”的类型不兼容
+D:\ClionProjects\laughing-train\wdWORK\wd_d09\t__03\main.c(47): warning C4715: “create_vector”: 不是所有的控件路径都返回值
+  t__03.vcxproj -> D:\ClionProjects\laughing-train\wdWORK\wd_d09\Debug\t_03.exe

@@ -1,0 +1,4 @@
+﻿  main.c
+D:\ClionProjects\laughing-train\wdWORK\day_10\t_01\main.c(27,18): warning C4013: “malloc”未定义；假设外部返回 int
+D:\ClionProjects\laughing-train\wdWORK\day_10\t_01\main.c(27,1): warning C4047: “初始化”:“Node *”与“int”的间接级别不同
+  t_01.vcxproj -> D:\ClionProjects\laughing-train\wdWORK\day_10\Debug\t_01.exe
