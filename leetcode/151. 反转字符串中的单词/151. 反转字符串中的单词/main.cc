@@ -4,38 +4,22 @@
 
 using namespace std;
 
-void reverse_s(string& s, int start, int end) {
-  char temp;
-  end--;
-  while (start < end) {
-    temp = s[start];
-    s[start] = s[end];
-    s[end] = temp;
-    start++;
-    end--;
-  }
-}
-
-string reverseWords(string s) {
-  int low = 0;
-  int high = s.size();
-  reverse_s(s, low, high);
-  int falg = 0;  //标记遇到第一个空格的位置
-  int j = s.size() - 1;
-  for (int i = s.size() - 1; i >= 0; i--) {
-    if (s[i] != '\0') {
-      s[j--] = s[i];
+//Not fully understood
+void removeExtraSpaces_2(string& s) {
+    int slow_index = 0, fast_index = 0;
+    for (; fast_index < s.size(); fast_index++)
+    {
+        if (s[fast_index] != ' ') {
+            if (slow_index > 0) {
+                s[slow_index++] = ' ';
+            }
+            while (fast_index < s.size() && s[fast_index] != ' ')
+            {
+                s[slow_index++] = s[fast_index++];
+            }
+        }
     }
-  }
-  low = high;
-  int p = high--;
-  while (low >= 0) {
-    while (s[p] != '\0') {
-      p--;
-    }
-    low = p;
-  }
-  return s;
+    s.resize(slow_index);
 }
 
 void removeExtraSpaces(string& s) {
@@ -59,10 +43,35 @@ void removeExtraSpaces(string& s) {
     s.resize(slowIndex);  // 重新设置字符串大小
   }
 }
+
+
+
+void reverse_s(string& s,int left,int right) {
+    while (left < right) {
+        char temp = s[left];
+        s[left] = s[right];
+        s[right] = temp;
+        left++;
+        right--;
+    }
+}
+
+void reverseString(string& s) {
+    reverse_s(s, 0, s.size() - 1);
+    int start = 0;
+    for (int i = 0; i <= s.size(); i++) {
+        if (s[i] == ' ' || i==s.size()) {
+            reverse_s(s, start, i - 1);
+            start = i + 1;
+        }
+    }
+}
+
 int main() {
   string s;
   getline(cin, s);
-  removeExtraSpaces(s);
+  removeExtraSpaces_2(s);
+  reverseString(s);
   cout << s << endl;
 
   return 0;

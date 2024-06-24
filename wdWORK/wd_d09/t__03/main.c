@@ -54,7 +54,7 @@ void expanding_vector(Vector* v) {
     else {
         new_capacity = v->capacity + 1024;
     }
-    Vector* p = realloc(v, new_capacity);
+    Vector* p = realloc(v, new_capacity * sizeof(E));
     if (!p) {
         printf("out of memery.\n");
         exit(1);
@@ -74,10 +74,13 @@ void push_front(Vector* v, E val) {
     if (v->size == v->capacity) {
         expanding_vector(v);
     }
+   // printf("111111111111111111\n");
     for (int i = v->size-1; i >=0; i--)
     {
         v->elements[i + 1] = v->elements[i];
     }
+
+   // printf("22222222222221\n");
     v->elements[0] = val;
     v->size++;
 }
@@ -110,14 +113,14 @@ E pop_front(Vector* v) {
 int main(void) {
     Vector* v = create_vector();
 
-    for (int i = 0; i < 10; i++)
+    for (int i = 0; i < 5; i++)
     {
         push_front(v, i);
     }
-    for (int i = 0; i < 2; i++)
+   /* for (int i = 0; i < 2; i++)
     {
         pop_front(v);
-    }
+    }*/
     for (int i = 0; i < v->size; i++)
     {
         printf("%d ", v->elements[i]);
