@@ -1,0 +1,10 @@
+﻿  main.c
+D:\ClionProjects\laughing-train\wdWORK\wd_d13\t_02_bitmap\main.c(23,21): warning C4013: “malloc”未定义；假设外部返回 int
+D:\ClionProjects\laughing-train\wdWORK\wd_d13\t_02_bitmap\main.c(25,20): warning C4013: “calloc”未定义；假设外部返回 int
+D:\ClionProjects\laughing-train\wdWORK\wd_d13\t_02_bitmap\main.c(25,64): warning C4047: “=”:“array_elem_type *”与“int”的间接级别不同
+D:\ClionProjects\laughing-train\wdWORK\wd_d13\t_02_bitmap\main.c(23,1): warning C4047: “初始化”:“BitMap *”与“int”的间接级别不同
+D:\ClionProjects\laughing-train\wdWORK\wd_d13\t_02_bitmap\main.c(32,8): warning C4013: “free”未定义；假设外部返回 int
+D:\ClionProjects\laughing-train\wdWORK\wd_d13\t_02_bitmap\main.c(64,8): warning C4013: “memset”未定义；假设外部返回 int
+D:\ClionProjects\laughing-train\wdWORK\wd_d13\t_02_bitmap\main.c(69,21): warning C4013: “realloc”未定义；假设外部返回 int
+D:\ClionProjects\laughing-train\wdWORK\wd_d13\t_02_bitmap\main.c(69,77): warning C4047: “=”:“array_elem_type *”与“int”的间接级别不同
+  t_02_bitmap.vcxproj -> D:\ClionProjects\laughing-train\wdWORK\wd_d13\Debug\t_02_bitmap.exe
