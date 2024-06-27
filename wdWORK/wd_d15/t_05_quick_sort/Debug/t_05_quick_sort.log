@@ -1,0 +1,3 @@
+﻿  main.c
+D:\ClionProjects\laughing-train\wdWORK\wd_d15\t_05_quick_sort\main.c(23): warning C4716: “partition”: 必须返回一个值
+  t_05_quick_sort.vcxproj -> D:\ClionProjects\laughing-train\wdWORK\wd_d15\Debug\t_05_quick_sort.exe

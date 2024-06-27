@@ -1,0 +1,4 @@
+﻿  BST.c
+D:\ClionProjects\laughing-train\wdWORK\wd_d14\wd_d14\BST.c(188,24): warning C4133: “函数”: 从“tree_node *”到“BST *”的类型不兼容
+D:\ClionProjects\laughing-train\wdWORK\wd_d14\wd_d14\BST.c(189,25): warning C4133: “函数”: 从“tree_node *”到“BST *”的类型不兼容
+  wd_d14.vcxproj -> D:\ClionProjects\laughing-train\wdWORK\wd_d14\Debug\t_01_binary_search_tree.exe

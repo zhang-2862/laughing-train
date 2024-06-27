@@ -1,0 +1,6 @@
+﻿  main.c
+D:\ClionProjects\laughing-train\wdWORK\wd_d14\t_02_leetcode：二叉树的最大深度\main.c(32,15): warning C4013: “calloc”未定义；假设外部返回 int
+D:\ClionProjects\laughing-train\wdWORK\wd_d14\t_02_leetcode：二叉树的最大深度\main.c(32,31): warning C4047: “return”:“BST *”与“int”的间接级别不同
+D:\ClionProjects\laughing-train\wdWORK\wd_d14\t_02_leetcode：二叉树的最大深度\main.c(56,1): warning C4047: “初始化”:“TreeNode *”与“int”的间接级别不同
+D:\ClionProjects\laughing-train\wdWORK\wd_d14\t_02_leetcode：二叉树的最大深度\main.c(86): warning C4715: “maxDepth_2”: 不是所有的控件路径都返回值
+  t_02_leetcode：二叉树的最大深度.vcxproj -> D:\ClionProjects\laughing-train\wdWORK\wd_d14\Debug\t_02_leetcode：二叉树的最大深度.exe

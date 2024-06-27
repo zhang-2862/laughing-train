@@ -1,0 +1,4 @@
+﻿  main.c
+D:\ClionProjects\laughing-train\wdWORK\wd_d15\t_06_shuffle\main.c(17,13): warning C4013: “rand”未定义；假设外部返回 int
+D:\ClionProjects\laughing-train\wdWORK\wd_d15\t_06_shuffle\main.c(33,7): warning C4013: “srand”未定义；假设外部返回 int
+  t_06_shuffle.vcxproj -> D:\ClionProjects\laughing-train\wdWORK\wd_d15\Debug\t_06_shuffle.exe
