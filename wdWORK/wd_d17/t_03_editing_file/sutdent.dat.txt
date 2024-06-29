@@ -1,0 +1,4 @@
+1 Allen f 85 90 80
+2 Beyonce f 76 81 72
+3 Cindy f 80 85 76
+4 Dianna f 83 88 78

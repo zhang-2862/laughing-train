@@ -1,0 +1,4 @@
+﻿  main.c
+D:\ClionProjects\laughing-train\wdWORK\wd_d16\t_03_\main.c(16,34): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\ClionProjects\laughing-train\wdWORK\wd_d16\t_03_\main.c(36,34): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  t_03_.vcxproj -> D:\ClionProjects\laughing-train\wdWORK\wd_d16\Debug\t_03_二分查找.exe

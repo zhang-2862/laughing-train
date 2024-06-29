@@ -1,0 +1,3 @@
+﻿  main.c
+D:\ClionProjects\laughing-train\wdWORK\wd_d16\t_01_heap_sort\main.c(38,27): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  t_01_heap_sort.vcxproj -> D:\ClionProjects\laughing-train\wdWORK\wd_d16\Debug\t_01_heap_sort.exe
