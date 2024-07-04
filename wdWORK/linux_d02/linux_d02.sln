@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "t_01_a. 查找一个数组中第k小的元素", "t_01_a. 查找一个数组中第k小的元素\t_01_a. 查找一个数组中第k小的元素.vcxproj", "{ACA788FD-9E23-496D-8BCE-5BF1B0BE934E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "t_01_b.给定一个无序数组，求它的中位数", "t_01_b.给定一个无序数组，求它的中位数\t_01_b.给定一个无序数组，求它的中位数.vcxproj", "{A2B8C45F-D90B-4ACC-BF45-295BF47D3830}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "t_02_275.H指数Ⅱ", "t_02_275.H指数Ⅱ\t_02_275.H指数Ⅱ.vcxproj", "{712C6FEF-CD38-43FA-8F47-53FA611D575B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "t_03_循环有序，找最小数", "t_03_循环有序，找最小数\t_03_循环有序，找最小数.vcxproj", "{E8BB26E2-9409-4BFF-BACC-3690C610124C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACA788FD-9E23-496D-8BCE-5BF1B0BE934E}.Debug|x64.ActiveCfg = Debug|x64
+		{ACA788FD-9E23-496D-8BCE-5BF1B0BE934E}.Debug|x64.Build.0 = Debug|x64
+		{ACA788FD-9E23-496D-8BCE-5BF1B0BE934E}.Debug|x86.ActiveCfg = Debug|Win32
+		{ACA788FD-9E23-496D-8BCE-5BF1B0BE934E}.Debug|x86.Build.0 = Debug|Win32
+		{ACA788FD-9E23-496D-8BCE-5BF1B0BE934E}.Release|x64.ActiveCfg = Release|x64
+		{ACA788FD-9E23-496D-8BCE-5BF1B0BE934E}.Release|x64.Build.0 = Release|x64
+		{ACA788FD-9E23-496D-8BCE-5BF1B0BE934E}.Release|x86.ActiveCfg = Release|Win32
+		{ACA788FD-9E23-496D-8BCE-5BF1B0BE934E}.Release|x86.Build.0 = Release|Win32
+		{A2B8C45F-D90B-4ACC-BF45-295BF47D3830}.Debug|x64.ActiveCfg = Debug|x64
+		{A2B8C45F-D90B-4ACC-BF45-295BF47D3830}.Debug|x64.Build.0 = Debug|x64
+		{A2B8C45F-D90B-4ACC-BF45-295BF47D3830}.Debug|x86.ActiveCfg = Debug|Win32
+		{A2B8C45F-D90B-4ACC-BF45-295BF47D3830}.Debug|x86.Build.0 = Debug|Win32
+		{A2B8C45F-D90B-4ACC-BF45-295BF47D3830}.Release|x64.ActiveCfg = Release|x64
+		{A2B8C45F-D90B-4ACC-BF45-295BF47D3830}.Release|x64.Build.0 = Release|x64
+		{A2B8C45F-D90B-4ACC-BF45-295BF47D3830}.Release|x86.ActiveCfg = Release|Win32
+		{A2B8C45F-D90B-4ACC-BF45-295BF47D3830}.Release|x86.Build.0 = Release|Win32
+		{712C6FEF-CD38-43FA-8F47-53FA611D575B}.Debug|x64.ActiveCfg = Debug|x64
+		{712C6FEF-CD38-43FA-8F47-53FA611D575B}.Debug|x64.Build.0 = Debug|x64
+		{712C6FEF-CD38-43FA-8F47-53FA611D575B}.Debug|x86.ActiveCfg = Debug|Win32
+		{712C6FEF-CD38-43FA-8F47-53FA611D575B}.Debug|x86.Build.0 = Debug|Win32
+		{712C6FEF-CD38-43FA-8F47-53FA611D575B}.Release|x64.ActiveCfg = Release|x64
+		{712C6FEF-CD38-43FA-8F47-53FA611D575B}.Release|x64.Build.0 = Release|x64
+		{712C6FEF-CD38-43FA-8F47-53FA611D575B}.Release|x86.ActiveCfg = Release|Win32
+		{712C6FEF-CD38-43FA-8F47-53FA611D575B}.Release|x86.Build.0 = Release|Win32
+		{E8BB26E2-9409-4BFF-BACC-3690C610124C}.Debug|x64.ActiveCfg = Debug|x64
+		{E8BB26E2-9409-4BFF-BACC-3690C610124C}.Debug|x64.Build.0 = Debug|x64
+		{E8BB26E2-9409-4BFF-BACC-3690C610124C}.Debug|x86.ActiveCfg = Debug|Win32
+		{E8BB26E2-9409-4BFF-BACC-3690C610124C}.Debug|x86.Build.0 = Debug|Win32
+		{E8BB26E2-9409-4BFF-BACC-3690C610124C}.Release|x64.ActiveCfg = Release|x64
+		{E8BB26E2-9409-4BFF-BACC-3690C610124C}.Release|x64.Build.0 = Release|x64
+		{E8BB26E2-9409-4BFF-BACC-3690C610124C}.Release|x86.ActiveCfg = Release|Win32
+		{E8BB26E2-9409-4BFF-BACC-3690C610124C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C87D369-C7DC-4FAD-9CC6-FC0038EF2A01}
+	EndGlobalSection
+EndGlobal

@@ -27,7 +27,7 @@ void add_before_head(Node** phead, Node** ptail, int val) {
 	Node* p = malloc(sizeof(Node));
 	p->data = val;
 	p->next = NULL;
-	if (*ptail == NULL) {
+	if (*phead == NULL) {
 		*ptail = p;
 		*phead = p;
 		return;

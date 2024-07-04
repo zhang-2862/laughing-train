@@ -1,0 +1,6 @@
+﻿  Scanner.c
+D:\ClionProjects\laughing-train\wdWORK\Lexical analyzer\Lexical analyzer\Scanner.c(74,31): warning C4013: “strlen”未定义；假设外部返回 int
+D:\ClionProjects\laughing-train\wdWORK\Lexical analyzer\Lexical analyzer\Scanner.c(110,40): warning C4013: “memcmp”未定义；假设外部返回 int
+D:\ClionProjects\laughing-train\wdWORK\Lexical analyzer\Lexical analyzer\Scanner.c(244,19): warning C4013: “isdigit”未定义；假设外部返回 int
+D:\ClionProjects\laughing-train\wdWORK\Lexical analyzer\Lexical analyzer\Scanner.c(273,27): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+  Lexical analyzer.vcxproj -> D:\ClionProjects\laughing-train\wdWORK\Lexical analyzer\Debug\Lexical analyzer.exe
