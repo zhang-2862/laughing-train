@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.28)
+project(1047__Deletes_all_adjacent_duplicates_in_a_string)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(1047__Deletes_all_adjacent_duplicates_in_a_string main.cpp)

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "94__Inorder_traversal_of_binary_trees",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "94__Inorder_traversal_of_binary_trees::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-94__Inorder_traversal_of_binary_trees-Debug-a79ccd3bf528cdc0a113.json",
+					"name" : "94__Inorder_traversal_of_binary_trees",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ClionProjects/laughing-train/leetcode/94. Inorder traversal of binary trees/cmake-build-debug",
+		"source" : "D:/ClionProjects/laughing-train/leetcode/94. Inorder traversal of binary trees"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

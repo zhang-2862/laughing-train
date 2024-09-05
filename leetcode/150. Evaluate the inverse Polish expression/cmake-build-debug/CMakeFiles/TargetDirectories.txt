@@ -1,0 +1,3 @@
+D:/ClionProjects/laughing-train/leetcode/150. Evaluate the inverse Polish expression/cmake-build-debug/CMakeFiles/150__Evaluate_the_inverse_Polish_expression.dir
+D:/ClionProjects/laughing-train/leetcode/150. Evaluate the inverse Polish expression/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/laughing-train/leetcode/150. Evaluate the inverse Polish expression/cmake-build-debug/CMakeFiles/rebuild_cache.dir

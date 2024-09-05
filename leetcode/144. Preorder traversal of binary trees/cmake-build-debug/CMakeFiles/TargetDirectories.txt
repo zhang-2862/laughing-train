@@ -1,0 +1,3 @@
+D:/ClionProjects/laughing-train/leetcode/144. Preorder traversal of binary trees/cmake-build-debug/CMakeFiles/144__Preorder_traversal_of_binary_trees.dir
+D:/ClionProjects/laughing-train/leetcode/144. Preorder traversal of binary trees/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/laughing-train/leetcode/144. Preorder traversal of binary trees/cmake-build-debug/CMakeFiles/rebuild_cache.dir

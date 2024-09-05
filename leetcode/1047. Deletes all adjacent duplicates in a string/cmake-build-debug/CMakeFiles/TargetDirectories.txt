@@ -1,0 +1,3 @@
+D:/ClionProjects/laughing-train/leetcode/1047. Deletes all adjacent duplicates in a string/cmake-build-debug/CMakeFiles/1047__Deletes_all_adjacent_duplicates_in_a_string.dir
+D:/ClionProjects/laughing-train/leetcode/1047. Deletes all adjacent duplicates in a string/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/laughing-train/leetcode/1047. Deletes all adjacent duplicates in a string/cmake-build-debug/CMakeFiles/rebuild_cache.dir

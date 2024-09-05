@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.28)
+project(145__Post_order_traversal_of_binary_trees_same_iteration_method_)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(145__Post_order_traversal_of_binary_trees_same_iteration_method_ main.cpp)

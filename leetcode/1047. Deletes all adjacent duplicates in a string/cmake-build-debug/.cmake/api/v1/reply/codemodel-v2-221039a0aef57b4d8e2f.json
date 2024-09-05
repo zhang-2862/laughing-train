@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "1047__Deletes_all_adjacent_duplicates_in_a_string",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1047__Deletes_all_adjacent_duplicates_in_a_string::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1047__Deletes_all_adjacent_duplicates_in_a_string-Debug-b69c19f65630a5e138c4.json",
+					"name" : "1047__Deletes_all_adjacent_duplicates_in_a_string",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ClionProjects/laughing-train/leetcode/1047. Deletes all adjacent duplicates in a string/cmake-build-debug",
+		"source" : "D:/ClionProjects/laughing-train/leetcode/1047. Deletes all adjacent duplicates in a string"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
