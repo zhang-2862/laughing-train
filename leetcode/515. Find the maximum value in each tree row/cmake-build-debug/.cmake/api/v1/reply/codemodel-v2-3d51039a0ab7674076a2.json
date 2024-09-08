@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "515__Find_the_maximum_value_in_each_tree_row",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "515__Find_the_maximum_value_in_each_tree_row::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-515__Find_the_maximum_value_in_each_tree_row-Debug-6a9e845970caad5f5e7c.json",
+					"name" : "515__Find_the_maximum_value_in_each_tree_row",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ClionProjects/laughing-train/leetcode/515. Find the maximum value in each tree row/cmake-build-debug",
+		"source" : "D:/ClionProjects/laughing-train/leetcode/515. Find the maximum value in each tree row"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

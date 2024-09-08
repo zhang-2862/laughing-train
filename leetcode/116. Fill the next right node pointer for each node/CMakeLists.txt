@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29)
+project(116__Fill_the_next_right_node_pointer_for_each_node)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(116__Fill_the_next_right_node_pointer_for_each_node main.cpp)
