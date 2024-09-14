@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../leetcode_s/leetcode/editor/cn/[559]N 叉树的最大深度.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode_s/leetcode/editor/cn/doc/content/[559]N 叉树的最大深度.md" />
+              <option name="frontendQuestionId" value="leetcode.cn559" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode_s/leetcode/editor/cn/[559]N 叉树的最大深度.cpp" />
+              <option name="titleSlug" value="maximum-depth-of-n-ary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

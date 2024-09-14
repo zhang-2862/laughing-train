@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "leetcode_s",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "110_balanced-binary-tree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-110_balanced-binary-tree-Debug-7009d3b764574cccd599.json",
+					"name" : "110_balanced-binary-tree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "222_count-complete-tree-nodes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-222_count-complete-tree-nodes-Debug-cd4eab8e9ea00f0b6bcb.json",
+					"name" : "222_count-complete-tree-nodes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "257_binary-tree-paths::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-257_binary-tree-paths-Debug-b436232a08539788f6fe.json",
+					"name" : "257_binary-tree-paths",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leetcode_s::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leetcode_s-Debug-253cedb468eee9c64570.json",
+					"name" : "leetcode_s",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ClionProjects/laughing-train/leetcode/leetcode_s/cmake-build-debug",
+		"source" : "D:/ClionProjects/laughing-train/leetcode/leetcode_s"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
