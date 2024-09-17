@@ -172,6 +172,138 @@ build 257_binary-tree-paths.exe: CXX_EXECUTABLE_LINKER__257_binary-tree-paths_De
   TARGET_IMPLIB = lib257_binary-tree-paths.dll.a
   TARGET_PDB = 257_binary-tree-paths.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 404_sum-of-left-leaves
+
+
+#############################################
+# Order-only phony target for 404_sum-of-left-leaves
+
+build cmake_object_order_depends_target_404_sum-of-left-leaves: phony || .
+
+build CMakeFiles/404_sum-of-left-leaves.dir/leetcode/editor/cn/404_sum-of-left-leaves.cpp.obj: CXX_COMPILER__404_sum-of-left-leaves_unscanned_Debug D$:/ClionProjects/laughing-train/leetcode/leetcode_s/leetcode/editor/cn/404_sum-of-left-leaves.cpp || cmake_object_order_depends_target_404_sum-of-left-leaves
+  DEP_FILE = CMakeFiles\404_sum-of-left-leaves.dir\leetcode\editor\cn\404_sum-of-left-leaves.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\404_sum-of-left-leaves.dir
+  OBJECT_FILE_DIR = CMakeFiles\404_sum-of-left-leaves.dir\leetcode\editor\cn
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 404_sum-of-left-leaves
+
+
+#############################################
+# Link the executable 404_sum-of-left-leaves.exe
+
+build 404_sum-of-left-leaves.exe: CXX_EXECUTABLE_LINKER__404_sum-of-left-leaves_Debug CMakeFiles/404_sum-of-left-leaves.dir/leetcode/editor/cn/404_sum-of-left-leaves.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\404_sum-of-left-leaves.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 404_sum-of-left-leaves.exe
+  TARGET_IMPLIB = lib404_sum-of-left-leaves.dll.a
+  TARGET_PDB = 404_sum-of-left-leaves.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 513_find-bottom-left-tree-value
+
+
+#############################################
+# Order-only phony target for 513_find-bottom-left-tree-value
+
+build cmake_object_order_depends_target_513_find-bottom-left-tree-value: phony || .
+
+build CMakeFiles/513_find-bottom-left-tree-value.dir/leetcode/editor/cn/513_find-bottom-left-tree-value.cpp.obj: CXX_COMPILER__513_find-bottom-left-tree-value_unscanned_Debug D$:/ClionProjects/laughing-train/leetcode/leetcode_s/leetcode/editor/cn/513_find-bottom-left-tree-value.cpp || cmake_object_order_depends_target_513_find-bottom-left-tree-value
+  DEP_FILE = CMakeFiles\513_find-bottom-left-tree-value.dir\leetcode\editor\cn\513_find-bottom-left-tree-value.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\513_find-bottom-left-tree-value.dir
+  OBJECT_FILE_DIR = CMakeFiles\513_find-bottom-left-tree-value.dir\leetcode\editor\cn
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 513_find-bottom-left-tree-value
+
+
+#############################################
+# Link the executable 513_find-bottom-left-tree-value.exe
+
+build 513_find-bottom-left-tree-value.exe: CXX_EXECUTABLE_LINKER__513_find-bottom-left-tree-value_Debug CMakeFiles/513_find-bottom-left-tree-value.dir/leetcode/editor/cn/513_find-bottom-left-tree-value.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\513_find-bottom-left-tree-value.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 513_find-bottom-left-tree-value.exe
+  TARGET_IMPLIB = lib513_find-bottom-left-tree-value.dll.a
+  TARGET_PDB = 513_find-bottom-left-tree-value.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 112_path-sum
+
+
+#############################################
+# Order-only phony target for 112_path-sum
+
+build cmake_object_order_depends_target_112_path-sum: phony || .
+
+build CMakeFiles/112_path-sum.dir/leetcode/editor/cn/112_path-sum.cpp.obj: CXX_COMPILER__112_path-sum_unscanned_Debug D$:/ClionProjects/laughing-train/leetcode/leetcode_s/leetcode/editor/cn/112_path-sum.cpp || cmake_object_order_depends_target_112_path-sum
+  DEP_FILE = CMakeFiles\112_path-sum.dir\leetcode\editor\cn\112_path-sum.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\112_path-sum.dir
+  OBJECT_FILE_DIR = CMakeFiles\112_path-sum.dir\leetcode\editor\cn
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 112_path-sum
+
+
+#############################################
+# Link the executable 112_path-sum.exe
+
+build 112_path-sum.exe: CXX_EXECUTABLE_LINKER__112_path-sum_Debug CMakeFiles/112_path-sum.dir/leetcode/editor/cn/112_path-sum.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\112_path-sum.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 112_path-sum.exe
+  TARGET_IMPLIB = lib112_path-sum.dll.a
+  TARGET_PDB = 112_path-sum.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 113_path-sum-ii
+
+
+#############################################
+# Order-only phony target for 113_path-sum-ii
+
+build cmake_object_order_depends_target_113_path-sum-ii: phony || .
+
+build CMakeFiles/113_path-sum-ii.dir/leetcode/editor/cn/113_path-sum-ii.cpp.obj: CXX_COMPILER__113_path-sum-ii_unscanned_Debug D$:/ClionProjects/laughing-train/leetcode/leetcode_s/leetcode/editor/cn/113_path-sum-ii.cpp || cmake_object_order_depends_target_113_path-sum-ii
+  DEP_FILE = CMakeFiles\113_path-sum-ii.dir\leetcode\editor\cn\113_path-sum-ii.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\113_path-sum-ii.dir
+  OBJECT_FILE_DIR = CMakeFiles\113_path-sum-ii.dir\leetcode\editor\cn
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 113_path-sum-ii
+
+
+#############################################
+# Link the executable 113_path-sum-ii.exe
+
+build 113_path-sum-ii.exe: CXX_EXECUTABLE_LINKER__113_path-sum-ii_Debug CMakeFiles/113_path-sum-ii.dir/leetcode/editor/cn/113_path-sum-ii.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\113_path-sum-ii.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 113_path-sum-ii.exe
+  TARGET_IMPLIB = lib113_path-sum-ii.dll.a
+  TARGET_PDB = 113_path-sum-ii.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -200,9 +332,17 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build 110_balanced-binary-tree: phony 110_balanced-binary-tree.exe
 
+build 112_path-sum: phony 112_path-sum.exe
+
+build 113_path-sum-ii: phony 113_path-sum-ii.exe
+
 build 222_count-complete-tree-nodes: phony 222_count-complete-tree-nodes.exe
 
 build 257_binary-tree-paths: phony 257_binary-tree-paths.exe
+
+build 404_sum-of-left-leaves: phony 404_sum-of-left-leaves.exe
+
+build 513_find-bottom-left-tree-value: phony 513_find-bottom-left-tree-value.exe
 
 build leetcode_s: phony leetcode_s.exe
 
@@ -214,7 +354,7 @@ build leetcode_s: phony leetcode_s.exe
 #############################################
 # Folder: D:/ClionProjects/laughing-train/leetcode/leetcode_s/cmake-build-debug
 
-build all: phony leetcode_s.exe 222_count-complete-tree-nodes.exe 110_balanced-binary-tree.exe 257_binary-tree-paths.exe
+build all: phony leetcode_s.exe 222_count-complete-tree-nodes.exe 110_balanced-binary-tree.exe 257_binary-tree-paths.exe 404_sum-of-left-leaves.exe 513_find-bottom-left-tree-value.exe 112_path-sum.exe 113_path-sum-ii.exe
 
 # =============================================================================
 # Built-in targets
