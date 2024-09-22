@@ -1,0 +1,240 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "leetcode_s",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "105_construct-binary-tree-from-preorder-and-inorder-traversal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-105_construct-binary-tree-from-preorder-and-inorder-traversal-Debug-05476d2c924a66447c22.json",
+					"name" : "105_construct-binary-tree-from-preorder-and-inorder-traversal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "106_construct-binary-tree-from-inorder-and-postorder-traversal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-106_construct-binary-tree-from-inorder-and-postorder-traversal-Debug-cc87186c2a539cb9f88e.json",
+					"name" : "106_construct-binary-tree-from-inorder-and-postorder-traversal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "110_balanced-binary-tree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-110_balanced-binary-tree-Debug-7009d3b764574cccd599.json",
+					"name" : "110_balanced-binary-tree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "112_path-sum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-112_path-sum-Debug-329611bfac5bc3a762e1.json",
+					"name" : "112_path-sum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "113_path-sum-ii::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-113_path-sum-ii-Debug-d0f2ad9bbe9df28a8c7c.json",
+					"name" : "113_path-sum-ii",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "222_count-complete-tree-nodes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-222_count-complete-tree-nodes-Debug-cd4eab8e9ea00f0b6bcb.json",
+					"name" : "222_count-complete-tree-nodes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "235_lowest-common-ancestor-of-a-binary-search-tree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-235_lowest-common-ancestor-of-a-binary-search-tree-Debug-7900c73ceba1be2973aa.json",
+					"name" : "235_lowest-common-ancestor-of-a-binary-search-tree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "236_lowest-common-ancestor-of-a-binary-tree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-236_lowest-common-ancestor-of-a-binary-tree-Debug-a282664c408b11a537d8.json",
+					"name" : "236_lowest-common-ancestor-of-a-binary-tree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "257_binary-tree-paths::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-257_binary-tree-paths-Debug-b436232a08539788f6fe.json",
+					"name" : "257_binary-tree-paths",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "404_sum-of-left-leaves::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-404_sum-of-left-leaves-Debug-0ca797fe24bd637a408b.json",
+					"name" : "404_sum-of-left-leaves",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "450_delete-node-in-a-bst::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-450_delete-node-in-a-bst-Debug-c307bb6573178c35d590.json",
+					"name" : "450_delete-node-in-a-bst",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "501_find-mode-in-binary-search-tree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-501_find-mode-in-binary-search-tree-Debug-90ce3416a05d8ac1add5.json",
+					"name" : "501_find-mode-in-binary-search-tree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "513_find-bottom-left-tree-value::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-513_find-bottom-left-tree-value-Debug-21330d42bc2e0916e839.json",
+					"name" : "513_find-bottom-left-tree-value",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "530_minimum-absolute-difference-in-bst::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-530_minimum-absolute-difference-in-bst-Debug-169c1ace3151e506abcd.json",
+					"name" : "530_minimum-absolute-difference-in-bst",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "617_merge-two-binary-trees::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-617_merge-two-binary-trees-Debug-91dd19e56adc29778f64.json",
+					"name" : "617_merge-two-binary-trees",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "654_maximum-binary-tree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-654_maximum-binary-tree-Debug-e34ee5bf3dacf956bfe1.json",
+					"name" : "654_maximum-binary-tree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "669_trim-a-binary-search-tree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-669_trim-a-binary-search-tree-Debug-7f3dd9138d84c5a5abfd.json",
+					"name" : "669_trim-a-binary-search-tree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "700_search-in-a-binary-search-tree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-700_search-in-a-binary-search-tree-Debug-9019da07222fed1c80e7.json",
+					"name" : "700_search-in-a-binary-search-tree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "701_insert-into-a-binary-search-tree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-701_insert-into-a-binary-search-tree-Debug-66f2e3a23eb7b6357536.json",
+					"name" : "701_insert-into-a-binary-search-tree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "98_validate-binary-search-tree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-98_validate-binary-search-tree-Debug-b4dcab5db8c6dab2da82.json",
+					"name" : "98_validate-binary-search-tree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leetcode_s::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leetcode_s-Debug-253cedb468eee9c64570.json",
+					"name" : "leetcode_s",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ClionProjects/laughing-train/leetcode/leetcode_s/cmake-build-debug",
+		"source" : "D:/ClionProjects/laughing-train/leetcode/leetcode_s"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
