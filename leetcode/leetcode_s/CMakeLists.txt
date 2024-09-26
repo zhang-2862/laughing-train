@@ -26,3 +26,5 @@ add_executable(235_lowest-common-ancestor-of-a-binary-search-tree leetcode/edito
 add_executable(701_insert-into-a-binary-search-tree leetcode/editor/cn/701_insert-into-a-binary-search-tree.cpp)
 add_executable(450_delete-node-in-a-bst leetcode/editor/cn/450_delete-node-in-a-bst.cpp)
 add_executable(669_trim-a-binary-search-tree leetcode/editor/cn/669_trim-a-binary-search-tree.cpp)
+add_executable(108_convert-sorted-array-to-binary-search-tree leetcode/editor/cn/108_convert-sorted-array-to-binary-search-tree.cpp)
+add_executable(538_convert-bst-to-greater-tree leetcode/editor/cn/538_convert-bst-to-greater-tree.cpp)

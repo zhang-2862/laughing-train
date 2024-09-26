@@ -19,5 +19,7 @@ D:/ClionProjects/laughing-train/leetcode/leetcode_s/cmake-build-debug/CMakeFiles
 D:/ClionProjects/laughing-train/leetcode/leetcode_s/cmake-build-debug/CMakeFiles/701_insert-into-a-binary-search-tree.dir
 D:/ClionProjects/laughing-train/leetcode/leetcode_s/cmake-build-debug/CMakeFiles/450_delete-node-in-a-bst.dir
 D:/ClionProjects/laughing-train/leetcode/leetcode_s/cmake-build-debug/CMakeFiles/669_trim-a-binary-search-tree.dir
+D:/ClionProjects/laughing-train/leetcode/leetcode_s/cmake-build-debug/CMakeFiles/108_convert-sorted-array-to-binary-search-tree.dir
+D:/ClionProjects/laughing-train/leetcode/leetcode_s/cmake-build-debug/CMakeFiles/538_convert-bst-to-greater-tree.dir
 D:/ClionProjects/laughing-train/leetcode/leetcode_s/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/ClionProjects/laughing-train/leetcode/leetcode_s/cmake-build-debug/CMakeFiles/rebuild_cache.dir

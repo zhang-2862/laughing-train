@@ -733,6 +733,72 @@ build 669_trim-a-binary-search-tree.exe: CXX_EXECUTABLE_LINKER__669_trim-a-binar
   TARGET_IMPLIB = lib669_trim-a-binary-search-tree.dll.a
   TARGET_PDB = 669_trim-a-binary-search-tree.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 108_convert-sorted-array-to-binary-search-tree
+
+
+#############################################
+# Order-only phony target for 108_convert-sorted-array-to-binary-search-tree
+
+build cmake_object_order_depends_target_108_convert-sorted-array-to-binary-search-tree: phony || .
+
+build CMakeFiles/108_convert-sorted-array-to-binary-search-tree.dir/leetcode/editor/cn/108_convert-sorted-array-to-binary-search-tree.cpp.obj: CXX_COMPILER__108_convert-sorted-array-to-binary-search-tree_unscanned_Debug D$:/ClionProjects/laughing-train/leetcode/leetcode_s/leetcode/editor/cn/108_convert-sorted-array-to-binary-search-tree.cpp || cmake_object_order_depends_target_108_convert-sorted-array-to-binary-search-tree
+  DEP_FILE = CMakeFiles\108_convert-sorted-array-to-binary-search-tree.dir\leetcode\editor\cn\108_convert-sorted-array-to-binary-search-tree.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\108_convert-sorted-array-to-binary-search-tree.dir
+  OBJECT_FILE_DIR = CMakeFiles\108_convert-sorted-array-to-binary-search-tree.dir\leetcode\editor\cn
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 108_convert-sorted-array-to-binary-search-tree
+
+
+#############################################
+# Link the executable 108_convert-sorted-array-to-binary-search-tree.exe
+
+build 108_convert-sorted-array-to-binary-search-tree.exe: CXX_EXECUTABLE_LINKER__108_convert-sorted-array-to-binary-search-tree_Debug CMakeFiles/108_convert-sorted-array-to-binary-search-tree.dir/leetcode/editor/cn/108_convert-sorted-array-to-binary-search-tree.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\108_convert-sorted-array-to-binary-search-tree.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 108_convert-sorted-array-to-binary-search-tree.exe
+  TARGET_IMPLIB = lib108_convert-sorted-array-to-binary-search-tree.dll.a
+  TARGET_PDB = 108_convert-sorted-array-to-binary-search-tree.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 538_convert-bst-to-greater-tree
+
+
+#############################################
+# Order-only phony target for 538_convert-bst-to-greater-tree
+
+build cmake_object_order_depends_target_538_convert-bst-to-greater-tree: phony || .
+
+build CMakeFiles/538_convert-bst-to-greater-tree.dir/leetcode/editor/cn/538_convert-bst-to-greater-tree.cpp.obj: CXX_COMPILER__538_convert-bst-to-greater-tree_unscanned_Debug D$:/ClionProjects/laughing-train/leetcode/leetcode_s/leetcode/editor/cn/538_convert-bst-to-greater-tree.cpp || cmake_object_order_depends_target_538_convert-bst-to-greater-tree
+  DEP_FILE = CMakeFiles\538_convert-bst-to-greater-tree.dir\leetcode\editor\cn\538_convert-bst-to-greater-tree.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\538_convert-bst-to-greater-tree.dir
+  OBJECT_FILE_DIR = CMakeFiles\538_convert-bst-to-greater-tree.dir\leetcode\editor\cn
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 538_convert-bst-to-greater-tree
+
+
+#############################################
+# Link the executable 538_convert-bst-to-greater-tree.exe
+
+build 538_convert-bst-to-greater-tree.exe: CXX_EXECUTABLE_LINKER__538_convert-bst-to-greater-tree_Debug CMakeFiles/538_convert-bst-to-greater-tree.dir/leetcode/editor/cn/538_convert-bst-to-greater-tree.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\538_convert-bst-to-greater-tree.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 538_convert-bst-to-greater-tree.exe
+  TARGET_IMPLIB = lib538_convert-bst-to-greater-tree.dll.a
+  TARGET_PDB = 538_convert-bst-to-greater-tree.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -763,6 +829,8 @@ build 105_construct-binary-tree-from-preorder-and-inorder-traversal: phony 105_c
 
 build 106_construct-binary-tree-from-inorder-and-postorder-traversal: phony 106_construct-binary-tree-from-inorder-and-postorder-traversal.exe
 
+build 108_convert-sorted-array-to-binary-search-tree: phony 108_convert-sorted-array-to-binary-search-tree.exe
+
 build 110_balanced-binary-tree: phony 110_balanced-binary-tree.exe
 
 build 112_path-sum: phony 112_path-sum.exe
@@ -787,6 +855,8 @@ build 513_find-bottom-left-tree-value: phony 513_find-bottom-left-tree-value.exe
 
 build 530_minimum-absolute-difference-in-bst: phony 530_minimum-absolute-difference-in-bst.exe
 
+build 538_convert-bst-to-greater-tree: phony 538_convert-bst-to-greater-tree.exe
+
 build 617_merge-two-binary-trees: phony 617_merge-two-binary-trees.exe
 
 build 654_maximum-binary-tree: phony 654_maximum-binary-tree.exe
@@ -809,7 +879,7 @@ build leetcode_s: phony leetcode_s.exe
 #############################################
 # Folder: D:/ClionProjects/laughing-train/leetcode/leetcode_s/cmake-build-debug
 
-build all: phony leetcode_s.exe 222_count-complete-tree-nodes.exe 110_balanced-binary-tree.exe 257_binary-tree-paths.exe 404_sum-of-left-leaves.exe 513_find-bottom-left-tree-value.exe 112_path-sum.exe 113_path-sum-ii.exe 106_construct-binary-tree-from-inorder-and-postorder-traversal.exe 105_construct-binary-tree-from-preorder-and-inorder-traversal.exe 654_maximum-binary-tree.exe 617_merge-two-binary-trees.exe 700_search-in-a-binary-search-tree.exe 530_minimum-absolute-difference-in-bst.exe 501_find-mode-in-binary-search-tree.exe 98_validate-binary-search-tree.exe 236_lowest-common-ancestor-of-a-binary-tree.exe 235_lowest-common-ancestor-of-a-binary-search-tree.exe 701_insert-into-a-binary-search-tree.exe 450_delete-node-in-a-bst.exe 669_trim-a-binary-search-tree.exe
+build all: phony leetcode_s.exe 222_count-complete-tree-nodes.exe 110_balanced-binary-tree.exe 257_binary-tree-paths.exe 404_sum-of-left-leaves.exe 513_find-bottom-left-tree-value.exe 112_path-sum.exe 113_path-sum-ii.exe 106_construct-binary-tree-from-inorder-and-postorder-traversal.exe 105_construct-binary-tree-from-preorder-and-inorder-traversal.exe 654_maximum-binary-tree.exe 617_merge-two-binary-trees.exe 700_search-in-a-binary-search-tree.exe 530_minimum-absolute-difference-in-bst.exe 501_find-mode-in-binary-search-tree.exe 98_validate-binary-search-tree.exe 236_lowest-common-ancestor-of-a-binary-tree.exe 235_lowest-common-ancestor-of-a-binary-search-tree.exe 701_insert-into-a-binary-search-tree.exe 450_delete-node-in-a-bst.exe 669_trim-a-binary-search-tree.exe 108_convert-sorted-array-to-binary-search-tree.exe 538_convert-bst-to-greater-tree.exe
 
 # =============================================================================
 # Built-in targets
